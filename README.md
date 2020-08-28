@@ -1,7 +1,11 @@
 ### Hi there 👋
 
 ### I'm Marko, a full stack web developer always eager to learn more and try different tools and technologies.
+### I also enjoy teaching and mentoring.
+
 ### 
+
+
 
 <!--
 **SovicMarko/SovicMarko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
